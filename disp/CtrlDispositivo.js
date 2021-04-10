@@ -31,7 +31,7 @@ const ctSondea = document.
 const dispositivoId = prompt(
   "Identificador del Dispositivo",
   "iot1");
-const ID_PROYECTO = "gilpgiotx";
+const ID_PROYECTO = "afarsitio5-c617a";
 const URL_SALIDA =
   urlDeDocumento(ID_PROYECTO,
     "Salida", dispositivoId);
