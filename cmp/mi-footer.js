@@ -3,7 +3,7 @@ class MiFooter
   connectedCallback() {
     this.innerHTML = /* html */
       `&copy; 2021
-      Gilberto Pacheco Gallegos.`;
+      Andrade Roman Arturo Fabian.`;
   }
 }
 customElements.define(
