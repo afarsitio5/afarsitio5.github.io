@@ -5,6 +5,6 @@ class MiFooter
       `&copy; 2021
       Andrade Roman Arturo Fabian.`;
   }
-}
+} 
 customElements.define(
   "mi-footer", MiFooter);
