@@ -3,7 +3,7 @@ class MiFooter
   connectedCallback() {
     this.innerHTML = /* html */
       `&copy; 2021
-      Andrade Roman Arturo Fabian.`;
+      Andrade Roman Arturo Fabian 1.`;
   }
 } 
 customElements.define(
